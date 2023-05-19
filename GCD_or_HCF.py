@@ -1,3 +1,3 @@
 import math
-n,m=map(int,input().split())
-print(math.gcd(n,m))
+a,b=map(int,input().split())
+print(math.gcd(a,b))
